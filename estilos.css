@@ -1,0 +1,14 @@
+body{
+    background: #ddd;
+    font-family: monospace;
+}
+.container-table{
+    width: 90%;
+    background: white;
+    /*aqui ponemos auto para que después
+     se pueda centrar,luego ponemos
+     para anotarlo rapido se escribe
+     asi: m50-a y sera sufifiente para
+     que con tab se rellena como abajo*/
+    margin: 50px auto;
+}
